@@ -1,5 +1,5 @@
 export const config = {
-    api: "https://stackoverflowclone-jddy.onrender.com",
+    api: "https://stack-2gew.onrender.com",
 }
 
 //for local    http://localhost:4000
