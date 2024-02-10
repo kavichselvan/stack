@@ -1,5 +1,5 @@
 export const config = {
-    api: "https://stack-2gew.onrender.com",
+    api: "https://stack-clone-x61f.onrender.com",
 }
 
 //for local    http://localhost:4000
